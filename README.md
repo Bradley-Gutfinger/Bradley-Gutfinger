@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bradley-Gutfinger
-- 👀 I’m interested in software engineering and data analytics
+- 👀 I’m interested in software engineering, data science, and data analytics
 - 📫 How to reach me: bgutfinger@yahoo.com
 
 <!---
